@@ -20,24 +20,38 @@
 
 1. Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores.
 
+![image](https://user-images.githubusercontent.com/84585835/126595257-e3320c5b-3bd9-42ae-bd0b-30212a701df3.png)
+
+
 3. Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
+
+![image](https://user-images.githubusercontent.com/84585835/126595281-d03996f7-4c39-4044-a57d-ef4fa9e720a9.png)
 
 5. En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL = 5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.
 
+![image](https://user-images.githubusercontent.com/84585835/126595299-e95170df-f671-4563-9f8f-a23374aa2a4c.png)
+
 9-2 Teorema de Thevenin
 
-7. Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab
+7. Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
+
+![image](https://user-images.githubusercontent.com/84585835/126595329-cbdf6e9e-702b-4bfd-ba34-626fb54bc93c.png)
 
 9. Repita el problema 7 para el circuito de la figura 9-83.
 
+![image](https://user-images.githubusercontent.com/84585835/126595358-2e5e1840-bd80-4019-bc77-1b155f836fd7.png)
 
 11. Vea el circuito de la figura 9-85:
+
+![image](https://user-images.githubusercontent.com/84585835/126595374-97455f26-dac4-473b-aa7e-871226deae1b.png)
 
 a Encuentre el circuito equivalente de Thévenin externo a RL.
 
  b. Use el circuito equivalente para determinar Vab cuando RL 20 Ω y cuando RL 50 Ω.
  
 13. Vea el circuito de la figura 9-87: 
+
+![image](https://user-images.githubusercontent.com/84585835/126595405-fc41b714-c290-463b-a9e5-aede0a9aa6f4.png)
 
 
 a. Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas. 
@@ -46,6 +60,7 @@ b. Use el circuito equivalente de Thévenin para determinar la corriente a trav�
 
 15. Vea el circuito de la figura 9-89: 
 
+![image](https://user-images.githubusercontent.com/84585835/126595433-4203a957-2f1a-4561-bf99-90dce1e4367a.png)
 
 a. Encuentre el circuito equivalente de Thévenin externo a las terminales que se indican. 
 
@@ -53,6 +68,7 @@ b. Use el circuito equivalente de Thévenin para determinar la corriente a trav�
 
 17. Vea el circuito de la figura 9-91: 
 
+![image](https://user-images.githubusercontent.com/84585835/126595461-83b4ccdd-d040-49f3-a939-cae0057829c4.png)
 
 a. Encuentre el circuito equivalente de Thévenin externo a RL.
 
@@ -60,23 +76,32 @@ a. Encuentre el circuito equivalente de Thévenin externo a RL.
  
 19. Repita el problema 17 para el circuito de la figura 9-93
 
+![image](https://user-images.githubusercontent.com/84585835/126595497-6f84ded6-ff9e-4515-b342-e31a7f1b1d1b.png)
+
 
 21. Encuentre el circuito equivalente de Thévenin de la red externa a las ramas que se indican, como se muestra en la figura 9-95.
+
+![image](https://user-images.githubusercontent.com/84585835/126595535-2b365da0-073b-4bc8-81b5-82c43d006ae5.png)
 
 
 23. Repita el problema 22 para el circuito de la figura 9-97.
 
+![image](https://user-images.githubusercontent.com/84585835/126595562-a30751fb-f07a-445d-be99-d2fd0fed7ea5.png)
 
 9-3 Teorema de Norton
 
 25. Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
 
+![image](https://user-images.githubusercontent.com/84585835/126595609-e4f21ba9-6661-4db7-b4c2-cfcd8373fbb5.png)
+
 
 27. Repita el problema 25 para el circuito de la figura 9-83.
 
+![image](https://user-images.githubusercontent.com/84585835/126595636-667acae6-ea2a-4612-990e-6b8a0ea32496.png)
 
 29. Vea el circuito de la figura 9-85: 
 
+![image](https://user-images.githubusercontent.com/84585835/126595650-2e3f7664-c4cb-4c2b-9c99-83176ba0b5f1.png)
 
 a. Encuentre el circuito equivalente de Norton externo a RL. 
 
@@ -84,16 +109,18 @@ b. Use el circuito equivalente para determinar IL cuando RL=20 kΩ y cuando RL=
 
 31. a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-87. 
 
+![image](https://user-images.githubusercontent.com/84585835/126595686-87d7e79c-24b4-403f-8a8a-aa777bef7749.png)
 
 b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivalente de Norton.
 
 33. Repita el problema 31 para el circuito de la figura 9-91.
 
+![image](https://user-images.githubusercontent.com/84585835/126595792-171604ac-718a-4afb-b49d-9e55cfce521e.png)
+
 
 35. Repita el problema 31 para el circuito de la figura 9-95.
 
-
-35. De la figura 9-95.Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-95.
+![image](https://user-images.githubusercontent.com/84585835/126595762-dd5dc746-5e23-42f4-8b5c-9c0dadad3939.png)
 
 ![image](https://user-images.githubusercontent.com/84412132/126581745-37d97db9-2440-434d-80a0-c0f5f511bfbe.png)
 
