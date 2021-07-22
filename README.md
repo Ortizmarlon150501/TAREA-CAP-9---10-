@@ -118,6 +118,8 @@ b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando
 
 ![image](https://user-images.githubusercontent.com/84585835/126595535-2b365da0-073b-4bc8-81b5-82c43d006ae5.png)
 
+![image](https://user-images.githubusercontent.com/84585835/126665104-2694ad6e-1387-4319-8588-854aa5685b78.png)
+
 
 23. Repita el problema 22 para el circuito de la figura 9-97.
 
