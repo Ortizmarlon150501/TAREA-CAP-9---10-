@@ -16,6 +16,101 @@
 
 # Explicacion y resolucion de Ejercicios
 
+35. De la figura 9-95.Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-95.
+
+![image](https://user-images.githubusercontent.com/84412132/126581745-37d97db9-2440-434d-80a0-c0f5f511bfbe.png)
+
+![image](https://user-images.githubusercontent.com/84412132/126581781-f6178a50-29e2-40a3-829a-b9df83b33f2a.png)
+
+
+9-4 Teorema de transferencia de máxima potencia
+37. Para el circuito de la figura 9-91 determine el valor de RL para que se suministre la máxima potencia a la carga.
+b. Calcule el valor de la máxima potencia que puede ser suministrada a la carga.
+
+![image](https://user-images.githubusercontent.com/84412132/126581828-3e4b90dc-46f1-4d8e-8249-fb68529c8c78.png)
+
+
+39. a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que
+RL=RTh.
+b. Calcule la máxima potencia disipada por RL.
+
+![image](https://user-images.githubusercontent.com/84412132/126581899-11c67023-05b0-4222-afec-1dc645886b6e.png)
+
+
+41. a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera que la carga de 32 kohm reciba la máxima potencia. 
+b. Calcule la máxima potencia suministrada por RL.
+
+
+![image](https://user-images.githubusercontent.com/84412132/126581975-46477493-53e6-467f-ab12-229fa2cbd244.png)
+
+
+9-7 Teorema de Reciprocidad
+
+49. a. Determine la corriente I en el circuito de la figura 9-107. 
+b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+![image](https://user-images.githubusercontent.com/84412132/126582057-d235c227-568c-48d4-a04f-8c0cee97ab6a.png)
+
+
+51. Determine el voltaje V en el circuito de la figura 9-109.
+Demuestre que la reciprocidad se aplica en el circuito dado.
+
+![image](https://user-images.githubusercontent.com/84412132/126582115-87ff33bc-735c-4b63-bbe8-3479275026cf.png)
+
+Capitulo 10
+
+1. Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos: 
+a. E = 40 V, C = 20 uF
+b. V = 500 V, Q = 1000 uC
+c. V = 200 V, C = 500 nF
+d. Q = 3x10-4 C, C = 10x10-6 F
+e. Q = 6 mC, C = 40 uF
+f. V = 1200 V, Q = 1.8 mC
+
+![image](https://user-images.githubusercontent.com/84412132/126582206-d7eaa12d-dc55-455e-9059-a9807ca7c0e6.png)
+
+
+3. La carga en un capacitor de 50 uF es de 10 × 〖10〗^(-3) C. Cual es la diferencia de potencial entre sus terminales?
+
+![image](https://user-images.githubusercontent.com/84412132/126582261-f3c2be1b-ebdd-4149-b50d-2ac5782e0e8e.png)
+
+
+
+5. Se carga un capacitor 5 uF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a través de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?
+
+![image](https://user-images.githubusercontent.com/84412132/126582304-a481bbcd-f9c3-46d6-a9e5-1abe7c615bb2.png)
+
+
+
+10-2 Factores que afectan la capacitancia
+
+7. Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguientes
+dimensiones 1 cm ×1.5 cm con una separación de 0.1 mm. Cuál es su
+capacitancia?
+
+
+![image](https://user-images.githubusercontent.com/84412132/126582342-8501b641-66e2-4d8b-8e10-de9ac2bdfaad.png)
+
+
+9. La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separación entre las placas es de 0.1 mm, ¿cuál es el área de las placas?
+
+![image](https://user-images.githubusercontent.com/84412132/126582398-d6af98eb-a53c-45ad-bd94-80d6eac2bae7.png)
+
+
+
+11. Un capacitor con un dieléctrico de Teflón tiene una capacitancia de 33 uF. Un segundo capacitor con dimensiones físicas idénticas, pero con un dieléctrico
+de mylar lleva una carga de 55 ×10^(-4)  C .Cuál es su voltaje?
+
+
+![image](https://user-images.githubusercontent.com/84412132/126582464-9cfb73b2-92cc-498a-9b35-7c66c0b522ad.png)
+
+
+
+10-3 Campos eléctricos
+13. a. ¿Cuál es la intensidad del campo eléctrico E a una distancia de 1 cm de una carga de 100 mC en aceite? 
+b. ¿Cuál es E al doble de la distancia?
+
+![image](https://user-images.githubusercontent.com/84412132/126582534-5e730757-5619-4fb9-8e55-2d23c3ffa3a0.png)
 
 
 15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
