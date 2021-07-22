@@ -133,10 +133,14 @@ b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando
 
 ![image](https://user-images.githubusercontent.com/84585835/126595609-e4f21ba9-6661-4db7-b4c2-cfcd8373fbb5.png)
 
+![image](https://user-images.githubusercontent.com/84585835/126670416-31979cf1-0989-4381-8ec0-846c4ad5b498.png)
+
 
 27. Repita el problema 25 para el circuito de la figura 9-83.
 
 ![image](https://user-images.githubusercontent.com/84585835/126595636-667acae6-ea2a-4612-990e-6b8a0ea32496.png)
+
+![image](https://user-images.githubusercontent.com/84585835/126670468-de59f31c-9291-406c-806d-e63bcec2ee04.png)
 
 29. Vea el circuito de la figura 9-85: 
 
@@ -144,7 +148,11 @@ b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando
 
 a. Encuentre el circuito equivalente de Norton externo a RL. 
 
+![image](https://user-images.githubusercontent.com/84585835/126670528-3fbb6787-269d-47b8-8592-c23aac939677.png)
+
 b. Use el circuito equivalente para determinar IL cuando RL=20 kΩ y cuando RL=50 kΩ.
+
+![image](https://user-images.githubusercontent.com/84585835/126670561-a3bab2f1-ced6-4a44-b22c-b905cf1dcdb8.png)
 
 31. a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-87. 
 
@@ -152,10 +160,13 @@ b. Use el circuito equivalente para determinar IL cuando RL=20 kΩ y cuando RL=
 
 b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivalente de Norton.
 
+![image](https://user-images.githubusercontent.com/84585835/126670617-ce19c358-fd52-4ec6-963b-805fda380985.png)
+
 33. Repita el problema 31 para el circuito de la figura 9-91.
 
 ![image](https://user-images.githubusercontent.com/84585835/126595792-171604ac-718a-4afb-b49d-9e55cfce521e.png)
 
+![image](https://user-images.githubusercontent.com/84585835/126670653-11cf12e3-4b62-43c5-bb8a-aabc6a7604b8.png)
 
 35. Repita el problema 31 para el circuito de la figura 9-95.
 
