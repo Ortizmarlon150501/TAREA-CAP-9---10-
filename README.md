@@ -34,6 +34,9 @@
 
 ![image](https://user-images.githubusercontent.com/84585835/126613909-f2d8216f-6ae4-458b-a037-3fd8c607a04f.png)
 
+![image](https://user-images.githubusercontent.com/84585835/126614065-c632969b-168e-4dd2-a24a-911735ce40ce.png)
+
+
 5. En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL = 5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.
 
 ![image](https://user-images.githubusercontent.com/84585835/126595299-e95170df-f671-4563-9f8f-a23374aa2a4c.png)
