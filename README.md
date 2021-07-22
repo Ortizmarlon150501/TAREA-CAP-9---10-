@@ -54,6 +54,8 @@
 
 ![image](https://user-images.githubusercontent.com/84585835/126595358-2e5e1840-bd80-4019-bc77-1b155f836fd7.png)
 
+![image](https://user-images.githubusercontent.com/84585835/126630219-6e30549e-4ead-46a1-94c3-f5b32a7c3d6f.png)
+
 11. Vea el circuito de la figura 9-85:
 
 ![image](https://user-images.githubusercontent.com/84585835/126595374-97455f26-dac4-473b-aa7e-871226deae1b.png)
