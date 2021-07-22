@@ -8,7 +8,10 @@
 
 • Comprender los conceptos básicos y los criterios de formulación de los cálculos propuestos en la Ley a utilizar, en este caso la Ley de Kirchhoff y analisis de nodos para el desarrollo de circuitos en serie, paralelo y mixtos.
 
-# Marco Teorico
+# Marco 
+
+![image](https://user-images.githubusercontent.com/84587118/126579744-6e21b4ca-7588-4c88-b63a-15cdb60ae693.png)
+
 
 # Explicacion y resolucion de Ejercicios
 
