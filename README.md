@@ -24,6 +24,7 @@
 
 
 9-4 Teorema de transferencia de máxima potencia
+
 37. Para el circuito de la figura 9-91 determine el valor de RL para que se suministre la máxima potencia a la carga.
 b. Calcule el valor de la máxima potencia que puede ser suministrada a la carga.
 
