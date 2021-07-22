@@ -47,6 +47,9 @@
 
 ![image](https://user-images.githubusercontent.com/84585835/126595329-cbdf6e9e-702b-4bfd-ba34-626fb54bc93c.png)
 
+![image](https://user-images.githubusercontent.com/84585835/126620783-c3c16bce-44bb-4dfe-9adf-6148aae76f3e.png)
+
+
 9. Repita el problema 7 para el circuito de la figura 9-83.
 
 ![image](https://user-images.githubusercontent.com/84585835/126595358-2e5e1840-bd80-4019-bc77-1b155f836fd7.png)
