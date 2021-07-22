@@ -75,7 +75,11 @@ a Encuentre el circuito equivalente de Thévenin externo a RL.
 
 a. Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas. 
 
+![image](https://user-images.githubusercontent.com/84585835/126644082-074c6f69-7611-474e-9798-fff27209a02e.png)
+
 b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas indicadas.
+
+![image](https://user-images.githubusercontent.com/84585835/126644112-b0793af3-6827-4878-b73f-14989668cef0.png)
 
 15. Vea el circuito de la figura 9-89: 
 
