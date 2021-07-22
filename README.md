@@ -41,6 +41,10 @@
 
 ![image](https://user-images.githubusercontent.com/84585835/126595299-e95170df-f671-4563-9f8f-a23374aa2a4c.png)
 
+![image](https://user-images.githubusercontent.com/84585835/126658113-bba5a058-1ca0-424f-97f9-a15d5f31074c.png)
+
+![image](https://user-images.githubusercontent.com/84585835/126658155-ff157989-41c2-43d0-ae4a-107ad75ed524.png)
+
 9-2 Teorema de Thevenin
 
 7. Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
