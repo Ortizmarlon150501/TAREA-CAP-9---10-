@@ -125,6 +125,8 @@ b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando
 
 ![image](https://user-images.githubusercontent.com/84585835/126595562-a30751fb-f07a-445d-be99-d2fd0fed7ea5.png)
 
+![image](https://user-images.githubusercontent.com/84585835/126665644-33aa3a9a-6c1d-463b-bd18-9534e51c6965.png)
+
 9-3 Teorema de Norton
 
 25. Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
