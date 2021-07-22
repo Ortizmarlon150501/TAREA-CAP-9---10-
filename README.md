@@ -22,10 +22,17 @@
 
 ![image](https://user-images.githubusercontent.com/84585835/126595257-e3320c5b-3bd9-42ae-bd0b-30212a701df3.png)
 
+![image](https://user-images.githubusercontent.com/84585835/126613502-3553768d-a952-4126-bcb2-08526a829afe.png)
+
+![image](https://user-images.githubusercontent.com/84585835/126613647-cea541fb-485e-41d0-9a98-31caa7d74c4c.png)
 
 3. Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
 
 ![image](https://user-images.githubusercontent.com/84585835/126595281-d03996f7-4c39-4044-a57d-ef4fa9e720a9.png)
+
+![image](https://user-images.githubusercontent.com/84585835/126613730-34cf8044-961a-4b79-9be4-8b3838a476bb.png)
+
+![image](https://user-images.githubusercontent.com/84585835/126613909-f2d8216f-6ae4-458b-a037-3fd8c607a04f.png)
 
 5. En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL = 5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.
 
