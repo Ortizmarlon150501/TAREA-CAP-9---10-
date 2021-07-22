@@ -122,8 +122,6 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 ![image](https://user-images.githubusercontent.com/84585835/126595762-dd5dc746-5e23-42f4-8b5c-9c0dadad3939.png)
 
-![image](https://user-images.githubusercontent.com/84412132/126581745-37d97db9-2440-434d-80a0-c0f5f511bfbe.png)
-
 ![image](https://user-images.githubusercontent.com/84412132/126581781-f6178a50-29e2-40a3-829a-b9df83b33f2a.png)
 
 
