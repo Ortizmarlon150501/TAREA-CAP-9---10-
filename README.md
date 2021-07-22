@@ -132,7 +132,8 @@ Incremento ya que el signo más va en la cola de la flecha de corriente.
 47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos:
 
 
-! [imagen] (https://user-images.githubusercontent.com/84587118/126580718-c6c44c17-3dd4-47e4-bcd3-fa2d20d4ac2a.png)
+![image](https://user-images.githubusercontent.com/84587118/126580952-edcc7edd-10c0-4cc5-9cdc-6f6b33838645.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/84587118/126580746-ae432ead-3622-41f7-bf4a-146625d7bc68.png)
