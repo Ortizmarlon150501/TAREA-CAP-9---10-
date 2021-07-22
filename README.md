@@ -8,7 +8,7 @@
 
 • Comprender los conceptos básicos y los criterios de formulación de los cálculos para la utilización en los distintos métodos utilizando el Teorema de superposición, Teorema de Thévenin y Teorema de Norton para resolver circuitos.
 
-•
+• Analiza los conceptos básicos y los criterios sobre capacitores y capacitancia para aplicarlos dentro de formulación de los cálculos para resolver circuitos.
 
 # Marco 
 ![image](https://user-images.githubusercontent.com/84412132/126581310-f6cd5583-3a25-4164-b94d-3516e6d1684c.png)
