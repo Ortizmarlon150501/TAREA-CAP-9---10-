@@ -9,11 +9,14 @@
 • Comprender los conceptos básicos y los criterios de formulación de los cálculos propuestos en la Ley a utilizar, en este caso la Ley de Kirchhoff y analisis de nodos para el desarrollo de circuitos en serie, paralelo y mixtos.
 
 # Marco 
+![image](https://user-images.githubusercontent.com/84412132/126581310-f6cd5583-3a25-4164-b94d-3516e6d1684c.png)
 
 ![image](https://user-images.githubusercontent.com/84587118/126579744-6e21b4ca-7588-4c88-b63a-15cdb60ae693.png)
 
 
 # Explicacion y resolucion de Ejercicios
+
+
 
 15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
 
