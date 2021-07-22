@@ -91,7 +91,11 @@ b. Use el circuito equivalente de Thévenin para determinar la corriente a trav�
 
 a. Encuentre el circuito equivalente de Thévenin externo a las terminales que se indican. 
 
+![image](https://user-images.githubusercontent.com/84585835/126663059-226d7c1e-bce5-487e-b2db-53aed0127c2f.png)
+
 b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas que se indican.
+
+![image](https://user-images.githubusercontent.com/84585835/126663098-a3d3acf4-1d89-4353-80cd-06a8c8e984ca.png)
 
 17. Vea el circuito de la figura 9-91: 
 
@@ -99,8 +103,12 @@ b. Use el circuito equivalente de Thévenin para determinar la corriente a trav�
 
 a. Encuentre el circuito equivalente de Thévenin externo a RL.
 
- b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando RL=0,10 kΩ y 50 kΩ
- 
+![image](https://user-images.githubusercontent.com/84585835/126663155-0f1622dc-88ae-4129-a0e0-572dc5c432da.png)
+
+b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando RL=0,10 kΩ y 50 kΩ
+
+![image](https://user-images.githubusercontent.com/84585835/126663211-57d31163-9d84-4158-bc16-930ff84982f4.png)
+
 19. Repita el problema 17 para el circuito de la figura 9-93
 
 ![image](https://user-images.githubusercontent.com/84585835/126595497-6f84ded6-ff9e-4515-b342-e31a7f1b1d1b.png)
