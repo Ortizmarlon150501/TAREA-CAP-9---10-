@@ -6,7 +6,9 @@
 
 # Objetivo Especifico
 
-• Comprender los conceptos básicos y los criterios de formulación de los cálculos propuestos en la Ley a utilizar, en este caso la Ley de Kirchhoff y analisis de nodos para el desarrollo de circuitos en serie, paralelo y mixtos.
+• Comprender los conceptos básicos y los criterios de formulación de los cálculos para la utilización en los distintos métodos utilizando el Teorema de superposición, Teorema de Thévenin y Teorema de Norton para resolver circuitos.
+
+•
 
 # Marco 
 ![image](https://user-images.githubusercontent.com/84412132/126581310-f6cd5583-3a25-4164-b94d-3516e6d1684c.png)
@@ -405,12 +407,10 @@ Incremento ya que el signo más va en la cola de la flecha de corriente.
 
 # Video
 
-https://youtu.be/ufbyRHpvj4U
+https://www.youtube.com/watch?v=blmBIZwvuHI
 
 
 # Conclusiones
-
-• Al realizar los ejercicios propuestos aplicando los distintos conceptos analizados en la teoría, nos damos cuenta que es importante leer bien y comprender la teoría por así se la puede aplicar de manera correcta.
 
 • Al realizar los ejercicios propuestos aplicando los distintos conceptos analizados en la teoría, nos damos cuenta que es importante leer bien y comprender la teoría por así se la puede aplicar de manera correcta.
 
