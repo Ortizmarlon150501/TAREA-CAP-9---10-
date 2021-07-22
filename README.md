@@ -62,8 +62,12 @@
 
 a Encuentre el circuito equivalente de Thévenin externo a RL.
 
+![image](https://user-images.githubusercontent.com/84585835/126642598-fd498bbb-9f68-4b61-80bc-9cf1790faf49.png)
+
  b. Use el circuito equivalente para determinar Vab cuando RL 20 Ω y cuando RL 50 Ω.
  
+ ![image](https://user-images.githubusercontent.com/84585835/126642634-b82b423d-91ba-4727-89b0-369372b2fd99.png)
+
 13. Vea el circuito de la figura 9-87: 
 
 ![image](https://user-images.githubusercontent.com/84585835/126595405-fc41b714-c290-463b-a9e5-aede0a9aa6f4.png)
